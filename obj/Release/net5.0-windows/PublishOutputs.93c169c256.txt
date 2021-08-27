@@ -1,0 +1,5 @@
+C:\Users\tgonzalez\source\repos\Fievel\Fievel\bin\Release\net5.0-windows\publish\Fievel.exe
+C:\Users\tgonzalez\source\repos\Fievel\Fievel\bin\Release\net5.0-windows\publish\Fievel.dll
+C:\Users\tgonzalez\source\repos\Fievel\Fievel\bin\Release\net5.0-windows\publish\Fievel.deps.json
+C:\Users\tgonzalez\source\repos\Fievel\Fievel\bin\Release\net5.0-windows\publish\Fievel.runtimeconfig.json
+C:\Users\tgonzalez\source\repos\Fievel\Fievel\bin\Release\net5.0-windows\publish\Fievel.pdb
